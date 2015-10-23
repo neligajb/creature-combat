@@ -1,5 +1,4 @@
 //Combat
-//CS 162 - Fall 2014
 //author: Boone Neligan
 //
 //Creature class and subclasses - header file
